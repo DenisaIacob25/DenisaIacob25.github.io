@@ -1,2 +1,17 @@
 ﻿body {
 }
+
+p.bio{
+  overflow: auto;  
+  font-size:15px;  
+}
+
+img#headshot{
+   float: right;
+   clear: left;
+   margin: 0 0 10px 10px;
+   width:400px;
+}
+.box.style1 .image{
+    overflow:visible;
+}
