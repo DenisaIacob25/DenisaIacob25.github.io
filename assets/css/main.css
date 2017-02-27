@@ -1795,15 +1795,15 @@
 			padding: 3em;
 		}
 
-			.box.style1 .image {
-				display: block;
-				position: absolute;
-				top: 0;
-				width: 50%;
-				height: 100%;
-				background: #152E33;
-				overflow: hidden;
-			}
+            .box.style1 .image {
+                display: block;
+                position: absolute;
+                top: 0;
+                width: 50%;
+                height: 100%; 
+                background: #152E33;
+                overflow: hidden;
+            }
 
 				.box.style1 .image img {
 					position: absolute;

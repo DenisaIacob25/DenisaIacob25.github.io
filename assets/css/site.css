@@ -10,10 +10,20 @@ img#headshot{
    float: right;
    clear: left;
    margin: 0 0 10px 10px;
-   width:400px;
+   width:450px;
 }
-.box.style1 .image{
-    overflow:visible;
+section#header {
+    background-image: url('../../images/cup-of-coffee-1280537_1920.jpg');
+     max-width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#banner .button {
+    color: #3a3939;
+}
+section#banner{
+    background-color:teal;
 }
 .icon:before{
     font-size:2.50em;
