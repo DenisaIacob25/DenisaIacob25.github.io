@@ -1390,7 +1390,7 @@
 		color: #35b88f;
 		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
 		text-decoration: none;
-		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
+		border-bottom: dotted 1px coral;
 	}
 
 		a:hover {
@@ -1697,7 +1697,7 @@
 		position: relative;
 		display: inline-block;
 		border: 0;
-		background: #35b88f;
+		background:coral;
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		cursor: pointer;
@@ -1714,7 +1714,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #45c89f;
+			background: teal;
 		}
 
 		input[type="button"].style2,
@@ -1915,8 +1915,10 @@
 			font-style: normal;
 			font-weight: normal;
 			line-height: 1;
+            color:coral;
 			-webkit-font-smoothing: antialiased;
 			-moz-osx-font-smoothing: grayscale;
+            
 		}
 
 		.icon > .label {
