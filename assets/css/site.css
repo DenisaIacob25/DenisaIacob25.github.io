@@ -20,18 +20,18 @@ section#header {
     background-size: cover;
 }
 img#wardrobe.img-responsive{
-    width:490px;
-    height:586.656px;   
+    width:570px;
+    height:618.667px;   
 }
 
 img#bank.img-responsive{
-    width:490px;
-    height:586.656px; 
+    width:570px;
+    height:618.667px; 
 }
 
 img#travel{
-   width:490px;
-   height:586.656px; 
+   width:570px;
+   height:566.667px; 
 }
 h3#code{
     color:coral;
