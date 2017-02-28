@@ -3,14 +3,17 @@
 
 p.bio{
   overflow: auto;  
-  font-size:15px;  
+  font-size:18px; 
+  text-align: justify;
+ 
 }
+
 
 img#headshot{
    float: right;
    clear: left;
    margin: 0 0 10px 10px;
-   width:450px;
+   width:400px;
 }
 section#header {
     background-image: url('../../images/cup-of-coffee-1280537_1920.jpg');
